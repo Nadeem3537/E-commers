@@ -15,7 +15,7 @@
     height:250px;
     overflow:hidden;
     perspective: 600px;
-    background:url("img/camera-1.webp") center/cover;
+    background:url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80") center/cover;
     border: 1px solid #000;
     padding: 20px;
 }
